@@ -3109,11 +3109,11 @@
     color: #444444;
     font-family: "Open Sans", sans-serif;
     font-size: 12px;
-    margin-right: -44px;
+    margin-right: -30px;
     float: right;
     right: 0;
     left: auto;
-    margin-top: 2px;
+    padding-top: 0;
 }
 
 .categories-tabs-widget
@@ -3143,7 +3143,7 @@
   .ratings
   .star-rating
   span.review-count.less-100 {
-    margin-right: -36px;
+    margin-right: -23px;
 }
 
 @media screen and (max-width: 600px) {
